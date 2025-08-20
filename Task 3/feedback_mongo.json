@@ -1,0 +1,130 @@
+[
+    {
+      "email": "uzlabini@gmail.com",
+      "userName":"Tatiana Bella",
+      "course":"Úvod do Python",
+      "raiting": 5,
+      "message": "Zúčastnila jsem se bezplatného webináře o úvodu do Pythonu. Díky němu jsem pochopila, co je to Python a k čemu se používá. Bylo to opravdu zajímavé a poučné! Na konci webináře proběhla soutěž o ceny – hrnek a 50% slevu na studium. Moc děkuji organizátorům za tuto příležitost!",
+      "responce": "Moc děkujeme za milá slova! Jsme rádi, že pro vás byl webinář užitečný a zajímavý. Snažíme se, aby naše výuka byla přístupná a inspirující. Doufáme, že vás uvidíme na některém z našich dalších kurzů! 😊",
+      "available": true
+    },
+     {
+      "email": "uzlabini@seznam.cz",
+      "userName":"Honza",
+      "course":"Úvod do JavaScript",
+      "raiting": 4,
+      "message": "JavaScript je velmi zajímavý jazyk, nyní rozumím základům a mohu vytvářet jednoduché programy. Nejvíce se mi líbila praktická část a vysvětlení lektora. Děkuji!",
+      "responce": "Děkujeme za vaši zpětnou vazbu! Jsme rádi, že vám naše vysvětlení a praxe pomohly zvládnout JavaScript. Těšíme se na vás na dalších kurzech!",
+      "available": true
+    },
+
+  {
+      "email": "svoboj.eu@gmail.com",
+      "userName":"Jiri",
+      "course":"Úvod do Python",
+      "raiting": null,
+      "message": "",
+      "responce": "",
+      "available": false
+    },
+      {
+      "email": "david.sousedik@gmail.com",
+      "userName":"David",
+      "course":"Úvod do Python",
+      "raiting": null,
+      "message": "",
+      "responce": "",
+      "available": false
+    },
+    {
+      "email": "richard.bartuska@seznam.cz",
+      "userName":"Richard",
+      "course":"Úvod do Python",
+      "raiting": null,
+      "message": "",
+      "responce": "",
+      "available": false
+    },
+    {
+      "email": "marketka.mrlikova@gmail.com",
+      "userName":"Marketa",
+      "course":"Úvod do Python",
+      "raiting": null,
+      "message": "",
+      "responce": "",
+      "available": false
+    },
+    {
+      "email": "doubecekjan@gmail.com",
+      "userName":"Jan",
+      "course":"Úvod do Python",
+      "raiting": null,
+      "message": "",
+      "responce": "",
+      "available": false
+    },
+    {
+      "email": "eliska.skokanova@gmail.com",
+      "userName":"Elishka",
+      "course":"Úvod do Python",
+      "raiting": null,
+      "message": "",
+      "responce": "",
+      "available": false
+    },
+    {
+      "email": "uzlabini@seznam.cz",
+      "userName":"Markéta",
+      "course":"JavaScript pro začátečníky",
+      "raiting": 5,
+      "message": "Právě absolvují kurz „JavaScript pro začátečníky“, je to zajímavé. Malá skupina, lektor stihne věnovat pozornost všem. Zatím se mi vše líbí!",
+      "responce": "Děkujeme, Markéto! Jsme rádi, že se vám líbí formát a výuka. Přejeme úspěšné studium!",
+      "available": true
+    },
+     {
+      "email": "oscar@seznam.cz",
+      "userName":"",
+      "course":"Úvod do Pythonu",
+      "raiting": "",
+      "message": "",
+      "responce": "",
+      "available": true
+    },
+    {
+      "email": "michalnedbal82@gmail.com",
+      "userName":"",
+      "course":"Úvod do Pythonu",
+      "raiting": "",
+      "message": "",
+      "responce": "",
+      "available": true
+    },
+    {
+      "email": "cizkova.marcela@seznam.cz",
+      "userName":"",
+      "course":"Úvod do Pythonu",
+      "raiting": "",
+      "message": "",
+      "responce": "",
+      "available": true
+    },
+    {
+      "email": "ondrej.skara@gmail.com",
+      "userName":"",
+      "course":"Úvod do Pythonu",
+      "raiting": "",
+      "message": "",
+      "responce": "",
+      "available": true
+    }, 
+    {
+      "email": "",
+      "userName":"Kamíl",
+      "course":"Úvod do Pythonu",
+      "raiting": 5,
+      "message": "Kurz Úvod do Pythonu byl skvělý🧐! Naučili jsme se základy a dokonce jsme vytvořili hru Had🐍. Na konci proběhlo losování o ceny a byla nabídnuta sleva na další studium🎁. Doporučuji všem!",
+      "responce": "Děkujeme moc za vaši důvěru, je nám velkou radostí být součástí vaší cesty!🫶",
+      "available": true
+    }
+]
+  
